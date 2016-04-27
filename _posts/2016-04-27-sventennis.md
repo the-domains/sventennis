@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: SVENTENNIS
-datePublished: '2016-04-27T23:31:56.436Z'
-dateModified: '2016-04-27T23:31:27.142Z'
+datePublished: '2016-04-27T23:34:49.821Z'
+dateModified: '2016-04-27T23:32:03.189Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-27-sventennis.md
 published: true
+starred: false
 url: sventennis/index.html
 _type: Article
 
